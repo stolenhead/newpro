@@ -1,0 +1,37 @@
+.slideshow {
+  position: relative;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  align-items: center;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+  -khtml-user-select: none;
+}
+
+
+/* Single slide */
+ #container {
+      position: relative;
+      height: 300px;
+      width: 300px;
+      margin: 50px 100px;
+      border: 2px solid blue;
+      -webkit-perspective: 500;
+      -webkit-transform: rotateY(45deg);
+    }
+
+
+
+.
+.cocina{
+  width: 80%;
+}
